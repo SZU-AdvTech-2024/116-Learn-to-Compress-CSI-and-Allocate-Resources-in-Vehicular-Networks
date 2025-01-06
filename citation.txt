@@ -2,7 +2,6 @@
     author = "Wang, Liang and Ye, Hao and Liang, Le and Li, Geoffrey Ye",
     doi = "10.1109/TCOMM.2020.2979124",
     journal = "IEEE Transactions on Communications",
-    keywords = "Resource management;Interference;Computer architecture;Device-to-device communication;Decision making;Vehicle dynamics;Machine learning;Vehicular networks;deep reinforcement learning;spectrum sharing;binary feedback",
     number = "6",
     pages = "3640-3653",
     title = "{Learn to Compress CSI and Allocate Resources in Vehicular Networks}",
